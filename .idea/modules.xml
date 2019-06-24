@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/CloudFireStoreOpet.iml" filepath="$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/CloudFireStoreOpet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../opet/opet/AndroidStudioProjects/CloudFireStoreOpet/CloudFireStoreOpet.iml" filepath="$PROJECT_DIR$/../../../opet/opet/AndroidStudioProjects/CloudFireStoreOpet/CloudFireStoreOpet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudFireStoreOpet.iml" filepath="$PROJECT_DIR$/CloudFireStoreOpet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioCidadeFS-master.iml" filepath="$PROJECT_DIR$/ExercicioCidadeFS-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../opet/opet/AndroidStudioProjects/CloudFireStoreOpet/app/app.iml" filepath="$PROJECT_DIR$/../../../opet/opet/AndroidStudioProjects/CloudFireStoreOpet/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/app/app.iml" filepath="$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storagefirebase/storagefirebase.iml" filepath="$PROJECT_DIR$/storagefirebase/storagefirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storagefirebase/storagefirebase.iml" filepath="$PROJECT_DIR$/storagefirebase/storagefirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/storagefirebase/storagefirebase.iml" filepath="$PROJECT_DIR$/../../../opet/Documents/Android/CloudFireStoreOpet/storagefirebase/storagefirebase.iml" />
+    </modules>
+  </component>
+</project>
